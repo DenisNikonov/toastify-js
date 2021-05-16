@@ -3,7 +3,7 @@
   "version": "1.11.0",
   "description":
     "Toastify is a lightweight, vanilla JS toast notification library.",
-  "main": "./src/toastify.js",
+  "main": "./src/toastify-es.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/apvarun/toastify-js.git"
